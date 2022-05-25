@@ -1,12 +1,12 @@
 ---
-title : "Take a look at Our Exibhition"
+title: "We only offer the best cleaning solutions"
 enable: true
 subtitle: >
-        We are the world’s largest provider of flexible workspace solutions,
-        with customers including some of the most successful entrepreneurs
-galleryImage: 
- - image: "images/gallery/gallery01.jpg"
- - image: "images/gallery/gallery02.jpg"
- - image: "images/gallery/gallery03.jpg"
- - image: "images/gallery/gallery04.jpg"
+  Our professional cleaning staff will clean your home to your exact specifications. Satisfaction with your home's cleaning is guaranteed or your money back!
+galleryImage:
+  - image: "images/gallery/gallery01.jpg"
+  - image: "images/gallery/gallery02.jpg"
+  - image: "images/gallery/gallery03.jpg"
+  - image: "images/gallery/gallery04.jpg"
 ---
+

@@ -1,4 +1,4 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://hugo-rosie.vercel.app/'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
@@ -31,8 +31,8 @@ title = 'coHub'
   url= "#faq"
   weight = 6
   [[menu.Main]]
-  name = "Contact"
-  url= "/contact/"
+  name = "Booking"
+  url= "/booking/"
   weight = 7
 
   # Sitemap Menu
@@ -51,8 +51,8 @@ title = 'coHub'
   copyright = "© {year} coHub. Inc."
   formspreeURL = "https://formspree.io/mbjwlead"
   googleAnalytics = "G-JZ95FEWF9K"
-  logo = "images/logo.png"
-  footerlogo = "images/logo.png"
+  logo = "images/logo1.png"
+  footerlogo = "images/logo1.png"
   footerDescription = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit quia ab, natus fugiat voluptas saepe ipsum animi officiis in molestiae?"
 
   [params.address]

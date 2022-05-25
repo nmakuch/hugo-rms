@@ -1,6 +1,7 @@
 ---
 enable: true
-title: "Visit coHub for a day."
+title: "15% off by scheduling bi-weekly visits"
 buttonTarget: contact
 priceLink: "#priceLink"
+linktext: "Schedule an appointment today"
 ---

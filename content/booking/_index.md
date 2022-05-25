@@ -1,7 +1,6 @@
 ---
-title: "Contact Me"
+title: "Book an appointment"
 date: 2022-01-08T11:25:11+06:00
 subTitle: >
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum Stet clita.
+  We offer the most customizable plans that let you choose exactly what you want. Whether you want your entire home deep cleaned by one of our professional staff, or simply want some help with the dreaded kitchen & bathroom, we have you covered. Choose from our pre-structured plans that cover all the standard items, or select our hourly plan to have complete control of how the time is spent.
 ---
-

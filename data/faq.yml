@@ -2,20 +2,21 @@
 enable: true
 title: "Frequently Asked Questions"
 faq:
-  - question: "Q. How do I apply?"
+  - question: "Q. Who will clean my home?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. Where can I find out about funding?"
+      For your first visit, we will send one of our professional maids to your home. We strongly recommend that you are present during this visit, as it will give you the opportunity to provide your own detailed instructions and expectations. If you are satisfied with the service, we will assign this maid to your home for all future visits.
+  - question: "Q. What are the qualifications of the cleaning staff?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How can I make a change to my application?"
+      We only hire experienced personnel who have years of experience in the industry. In addition to their experience level, they must all pass a criminal record check, a rigorous interview process, and a training program that involves passing a final examination.
+  - question: "Q. When will I be charged and how can I make payments?"
     answer: >
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit excepturi 
-            eaque quidem recusandae facere obcaecati optio, perferendis iusto maxime eligendi!
-  - question: "Q. What are entry requirements?"
+      You will be sent an invoice via e-mail following the service. You never pay in advance. Payment options are via credit card or interac e-transfer.
+  - question: "Q. What if I need to cancel an appointment?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How do I get a reference?"
+      No problem. As long as you give us a minimum of 24 hours notice, you will be able to cancel the visit free of charge.
+  - question: "Q. How will my maid access my home?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+      If you will not be home during our visit, you must contact us ahead of time in order to make arrangements.
+
 ---
+

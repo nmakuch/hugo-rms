@@ -1,27 +1,24 @@
 ---
 enable: true
-title: "Simple pricing for everyone"
+title: "Pricing and Services"
 subtitle: >
-          Whether you're looking for a full-time workspace or are just visiting Melbourne,
-           we've got an option for everyone
-buttonTarget: "contact"
+  We offer the most customizable plans that let you choose exactly what you want. Whether you want your entire home deep cleaned by one of our professional staff, or simply want some help with the dreaded kitchen & bathroom, we have you covered. Choose from our pre-structured plans that cover all the standard items, or select our hourly plan to have complete control.
+buttonTarget: "booking"
 itemPrices:
-  - packcage: "Daily"
+  - packcage: "Basic (2.0 hours)"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Expedita pariatur quidem, impedit ipsa repellat sed!
-    price: 19
-    badge: 
-  - packcage: "Weekly"
+      We'll clean your kitchen, bathroom, and all floors in your apartment
+    price: 70
+    badge:
+  - packcage: "Basic Plus (3.0 hours)"
     description: >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Libero exercitationem sed eius autem quisquam sapiente?
-    price: 79
+      Kitchen, bathroom, living areas including bedroom
+    price: 105
     badge: popular
-  - packcage: "Monthly"
+  - packcage: "Complete (3.5 hours)"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, 
-                quas nesciunt vitae suscipit necessitatibus ea.
-    price: 99
+      Kitchen, bathroom, living areas including bedroom and all floors
+    price: 122
     badge:
 ---
+

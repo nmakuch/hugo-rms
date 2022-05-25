@@ -1,38 +1,19 @@
 ---
 enable: true
-title: "Why Choose us?"
+title: "A clean home in 3 easy steps"
 subtitle: >
-          We enable people and businesses to work where they want, 
-          when they want and how they want.
+          At Rosie and Company - Maid Service, not only do we have the lowest rates in the area, we also pay our maids the highest wages. All of our cleaners have years of professional experience, clean background check (no criminal record), and speak english.
 services:
-  - name: "largest Network"
+  - name: "1) Easily book a visit"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-view-grid"
-  - name: "All Sizes And Budget"
+                Use our online form to book a visit or call us at (123) 456-7890 to schedule an appointment with one of our cleaning professionals.
+    icon: "ti-bookmark-alt"
+  - name: "2) We clean your home"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-infinite"
-  - name: "Dedicated Account Manager"
+                Our professional cleaning staff will clean your home to your exact specifications. Satisfaction is guaranteed.
+    icon: "ti-spray"
+  - name: "3) You enjoy and save"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-help-alt"
-  - name: "Easy Payment"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-credit-card"
-  - name: "Dedicated Locker"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-lock"
-  - name: "Personalization"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
-                Dicta maxime ullam quos sapiente eveniet odio accusamus.
-    icon: "ti-image"
+                Take advantage of 15% off by scheduling bi-weekly visits and relax knowing your home will always be clean.
+    icon: "ti-money"
 ---

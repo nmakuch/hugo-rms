@@ -2,7 +2,7 @@ baseURL = 'https://hugo-rosie.vercel.app/'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
-title = 'coHub'
+title = 'Rosies Maid Service'
  
 [Menu]
   # Main Menu
@@ -30,16 +30,6 @@ title = 'coHub'
   name = "Booking"
   url= "/booking/"
   weight = 7
-
-  # Sitemap Menu
-  [[menu.sitemap]]
-  name = "Privacy Policy"
-  url = "/privacy/"
-  weight = 1
-  [[menu.sitemap]]
-  name = "Terms"
-  url = "/terms/"
-  weight = 2
 
 [params]
   aboutPageURL = "blog"
